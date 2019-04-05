@@ -14,9 +14,23 @@ and edge nodes.  WedgeDB distributes storage and compute resources
 close to users to enable fast access. In EdgeLab, we tackle various
 research problems to realize WedgeDB. These research problems span
 topics such as consensus, byzantine agreement, transaction
-processing, and data indexing. 
+processing, and data indexing. Currently, the following are active
+projects within the WedgeDB scope.
+
+### Consensus across wide-area cloud-edge environments
+
+
+### Distributed LSM indexes
+
+
+## News
+
 
 ## Recent Publications
+
+
+
+## People
 
 
 
