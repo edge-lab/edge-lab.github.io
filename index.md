@@ -7,7 +7,7 @@ systems. We are interested in systems that span large geographic
 areas and infrastructures, including cloud and edge environments.
 
 
-## WedgeDB
+## UCSC goal: WedgeDB
 
 Wide-area Edge DB (WedgeDB) is a distributed database that span cloud
 and edge nodes.  WedgeDB distributes storage and compute resources
