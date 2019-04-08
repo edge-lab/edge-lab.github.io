@@ -9,7 +9,7 @@ areas and infrastructures, including cloud and edge environments.
 
 ## EdgeLab Goal: WedgeDB
 
-![WedgeDB](figs/system2.eps)
+![WedgeDB](figs/wedgedb.jpg)
 
 *Wide-area Edge DB (WedgeDB)* is a distributed database that span cloud
 and edge nodes.  WedgeDB distributes storage and compute resources
