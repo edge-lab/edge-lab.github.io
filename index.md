@@ -9,6 +9,8 @@ areas and infrastructures, including cloud and edge environments.
 
 ## EdgeLab Goal: WedgeDB
 
+![WedgeDB](figs/system2.pdf)
+
 *Wide-area Edge DB (WedgeDB)* is a distributed database that span cloud
 and edge nodes.  WedgeDB distributes storage and compute resources
 close to users to enable fast access. In EdgeLab, we tackle various
@@ -23,14 +25,16 @@ projects within the WedgeDB scope.
 ### Project 2: Distributed LSM indexes
 
 
-## News
-
-
-## Recent Publications
-
 
 
 ## People
+
+- Faisal Nawab, faculty. [http://nawab.me](http://nawab.me)
+- Natasha Mittal, Ph.D. Student. (2018-now)
+- Abhishek Singh, Ph.D. Student. (2018-now)
+- Holly Casaletto, Ph.D. Student. (2018-now)
+- Samaa Gazzaz, Ph.D. Student. (2019-now)
+- BinBin Gu, Ph.D. Student. (2019-now)
 
 
 
