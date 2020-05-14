@@ -49,7 +49,7 @@ Published in IEEE Internet of Things Journal 2019.
 
 5. [Dpaxos: Managing data closer to users for low-latency and mobile applications](http://www.nawab.me/Uploads/Nawab_DPaxos_SIGMOD2018.pdf)
 By F Nawab, D Agrawal, A El Abbadi.
-Published in SIGMOD 2020.
+Published in SIGMOD 2018.
 
 
 ## People
@@ -62,6 +62,18 @@ Published in SIGMOD 2020.
 - Samaa Gazzaz, Ph.D. Student. (2019-now)
 - BinBin Gu, Ph.D. Student. (2019-now)
 
+
+## Talks
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/jq-4j5m8Ouw" frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/FrnYC15qBfI" frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope;
+picture-in-picture" allowfullscreen></iframe>
 
 
 
