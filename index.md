@@ -2,9 +2,12 @@
 layout: default
 ---
 
-In UCSC EdgeLab, we study and build distributed data management
+In UCSC EdgeLab, we study and build distributed data management\
 systems. We are interested in systems that span large geographic
 areas and infrastructures, including cloud and edge environments.
+
+We target applications in the edge and IoT domain such as smart
+spaces, autonomous cars, and mobile applications.
 
 
 ## EdgeLab Goal: WedgeDB
@@ -19,13 +22,15 @@ topics such as consensus, byzantine agreement, transaction
 processing, and data indexing. Currently, the following are active
 projects within the WedgeDB scope.
 
-### Project 1: Consensus across wide-area cloud-edge environments
+%### Project 1: Consensus across wide-area cloud-edge environments
+%### Project 2: Distributed LSM indexes
+%### Project 3: 
 
+## Select Recent Publications
 
-### Project 2: Distributed LSM indexes
-
-
-
+1. [AnyLog: a Grand Unification of the Internet of Things](http://www.cs.umd.edu/~abadi/papers/anylogAbadiEtAl.pdf)
+By D Abadi, O Arden, F Nawab, M Shadmon
+Published in CIDR 2020
 
 ## People
 
