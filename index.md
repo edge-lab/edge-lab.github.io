@@ -23,9 +23,14 @@ topics such as consensus, byzantine agreement, transaction
 processing, and data indexing. Currently, the following are active
 projects within the WedgeDB scope.
 
+line1
+line2
+
+{% comment %}
 %### Project 1: Consensus across wide-area cloud-edge environments
 %### Project 2: Distributed LSM indexes
-%### Project 3: 
+%### Project 3:
+{% endcomment %} 
 
 ## Select Recent Publications
 
