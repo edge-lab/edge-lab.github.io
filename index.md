@@ -23,9 +23,6 @@ topics such as consensus, byzantine agreement, transaction
 processing, and data indexing. Currently, the following are active
 projects within the WedgeDB scope.
 
-line1
-line2
-
 {% comment %}
 %### Project 1: Consensus across wide-area cloud-edge environments
 %### Project 2: Distributed LSM indexes
@@ -35,8 +32,25 @@ line2
 ## Select Recent Publications
 
 1. [AnyLog: a Grand Unification of the Internet of Things](http://www.cs.umd.edu/~abadi/papers/anylogAbadiEtAl.pdf)
-By D Abadi, O Arden, F Nawab, M Shadmon
-Published in CIDR 2020
+By D Abadi, O Arden, F Nawab, M Shadmon.
+Published in CIDR 2020.
+
+2. [Blockplane: A global-scale byzantizing middleware](http://www.nawab.me/Uploads/Blockplane_ICDE2019_cr.pdf)
+F Nawab, M Sadoghi.
+Published in ICDE 2019.
+
+3. [Unifying consensus and atomic commitment for effective cloud data management](http://www.vldb.org/pvldb/vol12/p611-maiyya.pdf)
+By S Maiyya, F Nawab, D Agrawal, A El Abbadi.
+Published in VLDB 2019.
+
+4. [Blockchain in IoT Systems: End-to-End Delay Evaluation](https://repository.kaust.edu.sa/bitstream/handle/10754/655903/08716500.pdf?sequence=1&isAllowed=y)
+By M Alaslani, F Nawab, B Shihada.
+Published in IEEE Internet of Things Journal 2019.
+
+5. [Dpaxos: Managing data closer to users for low-latency and mobile applications](http://www.nawab.me/Uploads/Nawab_DPaxos_SIGMOD2018.pdf)
+By F Nawab, D Agrawal, A El Abbadi.
+Published in SIGMOD 2020.
+
 
 ## People
 
@@ -44,6 +58,7 @@ Published in CIDR 2020
 - Natasha Mittal, Ph.D. Student. (2018-now)
 - Abhishek Singh, Ph.D. Student. (2018-now)
 - Holly Casaletto, Ph.D. Student. (2018-now)
+- Saeed Kargar, Ph. D. Student. (2019-now)
 - Samaa Gazzaz, Ph.D. Student. (2019-now)
 - BinBin Gu, Ph.D. Student. (2019-now)
 
