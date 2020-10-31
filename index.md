@@ -46,6 +46,7 @@ Published in ICDE 2021.
 4. [AnyLog: a Grand Unification of the Internet of Things.](http://www.cs.umd.edu/~abadi/papers/anylogAbadiEtAl.pdf)
 By D Abadi, O Arden, F Nawab, M Shadmon.
 Published in CIDR 2020.
+
 5. [Blockplane: A global-scale byzantizing middleware.](http://www.nawab.me/Uploads/Blockplane_ICDE2019_cr.pdf)
 F Nawab, M Sadoghi.
 Published in ICDE 2019.
@@ -53,7 +54,6 @@ Published in ICDE 2019.
 6. [Unifying consensus and atomic commitment for effective cloud data management.](http://www.vldb.org/pvldb/vol12/p611-maiyya.pdf)
 By S Maiyya, F Nawab, D Agrawal, A El Abbadi.
 Published in VLDB 2019.
-
 
 7. [Blockchain in IoT Systems: End-to-End Delay Evaluation.](https://repository.kaust.edu.sa/bitstream/handle/10754/655903/08716500.pdf?sequence=1&isAllowed=y)
 By M Alaslani, F Nawab, B Shihada.
