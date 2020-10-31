@@ -31,36 +31,35 @@ projects within the WedgeDB scope.
 
 ## Select Recent Publications
 
-1. Predict and Write: Using K-Means Clustering to Extend the Lifetime of NVM Storage 
+1. Predict and Write: Using K-Means Clustering to Extend the Lifetime of NVM Storage. 
 By Saeed Kargar, Heiner Litz, Faisal Nawab.
 Published in ICDE 2021.
 
-2. CooLSM: Distributed and Cooperative Indexing Across Edge and Cloud Machines
+2. CooLSM: Distributed and Cooperative Indexing Across Edge and Cloud Machines.
 By Natasha Mittal, Faisal Nawab.
 Published in ICDE 2021.
 
-3. WedgeChain: A Trusted Edge-Cloud Store With Asynchronous (Lazy) Trust
+3. WedgeChain: A Trusted Edge-Cloud Store With Asynchronous (Lazy) Trust.
 By Faisal Nawab.
 Published in ICDE 2021.
 
-4. [AnyLog: a Grand Unification of the Internet of Things](http://www.cs.umd.edu/~abadi/papers/anylogAbadiEtAl.pdf)
+4. [AnyLog: a Grand Unification of the Internet of Things.](http://www.cs.umd.edu/~abadi/papers/anylogAbadiEtAl.pdf)
 By D Abadi, O Arden, F Nawab, M Shadmon.
 Published in CIDR 2020.
-
-5. [Blockplane: A global-scale byzantizing middleware](http://www.nawab.me/Uploads/Blockplane_ICDE2019_cr.pdf)
+5. [Blockplane: A global-scale byzantizing middleware.](http://www.nawab.me/Uploads/Blockplane_ICDE2019_cr.pdf)
 F Nawab, M Sadoghi.
 Published in ICDE 2019.
 
-6. [Unifying consensus and atomic commitment for effective cloud data management](http://www.vldb.org/pvldb/vol12/p611-maiyya.pdf)
+6. [Unifying consensus and atomic commitment for effective cloud data management.](http://www.vldb.org/pvldb/vol12/p611-maiyya.pdf)
 By S Maiyya, F Nawab, D Agrawal, A El Abbadi.
 Published in VLDB 2019.
 
 
-7. [Blockchain in IoT Systems: End-to-End Delay Evaluation](https://repository.kaust.edu.sa/bitstream/handle/10754/655903/08716500.pdf?sequence=1&isAllowed=y)
+7. [Blockchain in IoT Systems: End-to-End Delay Evaluation.](https://repository.kaust.edu.sa/bitstream/handle/10754/655903/08716500.pdf?sequence=1&isAllowed=y)
 By M Alaslani, F Nawab, B Shihada.
 Published in IEEE Internet of Things Journal 2019.
 
-8. [Dpaxos: Managing data closer to users for low-latency and mobile applications](http://www.nawab.me/Uploads/Nawab_DPaxos_SIGMOD2018.pdf)
+8. [Dpaxos: Managing data closer to users for low-latency and mobile applications.](http://www.nawab.me/Uploads/Nawab_DPaxos_SIGMOD2018.pdf)
 By F Nawab, D Agrawal, A El Abbadi.
 Published in SIGMOD 2018.
 
