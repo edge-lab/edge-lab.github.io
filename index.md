@@ -72,7 +72,7 @@ Published in SIGMOD 2018.
 - Holly Casaletto, Ph.D. Student. (2018-now)
 - Saeed Kargar, Ph. D. Student. (2019-now)
 - Samaa Gazzaz, Ph.D. Student. (2019-now)
-- BinBin Gu, Ph.D. Student. (2019-now)
+- [BinBin Gu](https://tuzijun111.github.io/), Ph.D. Student. (2019-now)
 
 
 ## Talks
