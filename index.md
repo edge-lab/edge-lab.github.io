@@ -31,7 +31,7 @@ projects within the WedgeDB scope.
 
 ## Select Recent Publications
 
-1. Predict and Write: Using K-Means Clustering to Extend the Lifetime of NVM Storage. 
+1. [Predict and Write: Using K-Means Clustering to Extend the Lifetime of NVM Storage.](https://arxiv.org/abs/2011.02556)
 By Saeed Kargar, Heiner Litz, Faisal Nawab.
 Published in ICDE 2021.
 
