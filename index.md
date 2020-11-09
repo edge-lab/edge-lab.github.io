@@ -32,15 +32,15 @@ projects within the WedgeDB scope.
 ## Select Recent Publications
 
 1. [Predict and Write: Using K-Means Clustering to Extend the Lifetime of NVM Storage.](https://arxiv.org/abs/2011.02556)
-By Saeed Kargar, Heiner Litz, Faisal Nawab.
+By S Kargar, H Litz, F Nawab.
 Published in ICDE 2021.
 
 2. CooLSM: Distributed and Cooperative Indexing Across Edge and Cloud Machines.
-By Natasha Mittal, Faisal Nawab.
+By N Mittal, F Nawab.
 Published in ICDE 2021.
 
 3. WedgeChain: A Trusted Edge-Cloud Store With Asynchronous (Lazy) Trust.
-By Faisal Nawab.
+By F Nawab.
 Published in ICDE 2021.
 
 4. [AnyLog: a Grand Unification of the Internet of Things.](http://www.cs.umd.edu/~abadi/papers/anylogAbadiEtAl.pdf)
@@ -48,7 +48,7 @@ By D Abadi, O Arden, F Nawab, M Shadmon.
 Published in CIDR 2020.
 
 5. [Blockplane: A global-scale byzantizing middleware.](http://www.nawab.me/Uploads/Blockplane_ICDE2019_cr.pdf)
-F Nawab, M Sadoghi.
+By F Nawab, M Sadoghi.
 Published in ICDE 2019.
 
 6. [Unifying consensus and atomic commitment for effective cloud data management.](http://www.vldb.org/pvldb/vol12/p611-maiyya.pdf)
