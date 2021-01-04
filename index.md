@@ -39,7 +39,7 @@ Published in ICDE 2021.
 By N Mittal, F Nawab.
 Published in ICDE 2021.
 
-3. WedgeChain: A Trusted Edge-Cloud Store With Asynchronous (Lazy) Trust.
+3. [WedgeChain: A Trusted Edge-Cloud Store With Asynchronous (Lazy) Trust.](https://arxiv.org/pdf/2012.02258.pdf)
 By F Nawab.
 Published in ICDE 2021.
 
